@@ -1,0 +1,35 @@
+_repo: Gypsy-Coppersmiths-in-Liverpool-and-Birkenhead_62269
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Macfie, R. A. Scott (Robert Andrew Scott)
+    aliases:
+    - Macfie, Robert Andrew Scott
+    - Skot, Bob
+    - Juvalomursh, Tringurushi
+    - Macfie, Robert A. Scott (Robert Andrew Scott)
+    - Shuko, Mui
+    - Andreas
+    birthdate: 1868
+    deathdate: 1935
+    gutenberg_agent_id: '51863'
+    url: http://www.gutenberg.org/2009/agents/51863
+description: ''
+gutenberg_issued: '2020-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62269'
+  lccn: '17016451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DX'
+- !lcsh 'Romanies'
+- GITenberg
+tableOfContents: 'Everywhere strangers: everywhere at home -- Imperium in imperio
+  -- Gypsy bagmen -- The tale of a tub -- Parliaments -- The photograph -- The sick
+  boy -- A good work -- The revelation -- An unwritten tongue.'
+title: Gypsy Coppersmiths in Liverpool and Birkenhead
+url: http://www.gutenberg.org/ebooks/62269
